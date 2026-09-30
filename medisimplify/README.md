@@ -9,10 +9,13 @@ and grounded follow-up Q&A.
 - Q&A answers only from retrieved document chunks (BM25) with a supporting quote; otherwise "not in your document"
 - Persistent disclaimer banner + "Questions to ask your doctor"
 
-## Run
-```
-python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-# put your key in .env
-streamlit run app.py
-```
+## Run locally
+1. Clone the repository: `git clone <repo_url>`
+2. Navigate to the project directory: `cd medisimplify`
+3. Create a virtual environment: `python -m venv .venv`
+4. Activate the virtual environment: 
+   - Windows: `.\.venv\Scripts\Activate.ps1` or `.\.venv\Scripts\activate`
+   - Mac/Linux: `source .venv/bin/activate`
+5. Install requirements: `pip install -r requirements.txt`
+6. Copy `.env.example` to `.env` and add your real API key.
+7. Run the app: `streamlit run app.py`
