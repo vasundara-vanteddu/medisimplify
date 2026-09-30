@@ -1,0 +1,26 @@
+CITY GENERAL HOSPITAL - DISCHARGE SUMMARY (SAMPLE / FICTIONAL)
+Patient: Ramesh K., 58 M        Admission: 12/03/2025    Discharge: 16/03/2025
+
+Diagnosis: Acute myocardial infarction (NSTEMI). Hypertension. Type 2 diabetes mellitus.
+Procedure: Coronary angiography with PTCA and stent placement to LAD.
+
+Hospital course: Patient presented with chest pain and diaphoresis. ECG showed ST-T changes;
+Troponin I elevated at 2.4 ng/mL (ref < 0.04). Underwent angioplasty on 13/03/2025 without complications.
+Echo: LVEF 45%.
+
+Lab results at discharge:
+Hemoglobin 12.8 g/dL (ref 13.0 - 17.0)
+HbA1c 8.1 % (ref < 5.7)
+Serum creatinine 1.0 mg/dL (ref 0.7 - 1.3)
+LDL cholesterol 142 mg/dL (ref < 100)
+
+Discharge medications:
+1. Tab Aspirin 75 mg once daily after food
+2. Tab Clopidogrel 75 mg once daily
+3. Tab Atorvastatin 40 mg once daily at night
+4. Tab Metoprolol 25 mg twice daily
+5. Tab Metformin 500 mg twice daily after meals
+
+Advice: Low salt, low fat, diabetic diet. Avoid strenuous exertion for 4 weeks.
+Follow-up: Cardiology OPD after 1 week. Repeat HbA1c and lipid profile after 3 months.
+Return to emergency if chest pain, breathlessness or sweating recurs.
